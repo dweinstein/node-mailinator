@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "seconds_ago": 200230,
+      "id": "1420049469-71065803-ns-receiver",
+      "to": "ns-receiver@mailinator.com",
+      "time": 1420049469498,
+      "subject": "test",
+      "fromfull": "daemonize@gmail.com",
+      "been_read": false,
+      "from": "David",
+      "ip": "209.85.214.182"
+    }
+  ]
+}

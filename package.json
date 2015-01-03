@@ -1,0 +1,27 @@
+{
+  "name": "mailinator",
+  "version": "1.0.0",
+  "description": "node mailinator api",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "mailinator",
+    "api",
+    "mail"
+  ],
+  "author": "dweinstein",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "hyperquest": "^1.0.1",
+    "paramify": "^0.1.2",
+    "split": "^0.3.2",
+    "tap": "^0.4.13",
+    "through2": "^0.6.3"
+  }
+}
