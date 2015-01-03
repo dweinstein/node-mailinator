@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "node mailinator api",
   "main": "index.js",
-  "directories": {
-    "test": "test"
+  "homepage": "https://github.com/dweinstein/node-mailinator",
+  "bugs": "https://github.com/dweinstein/node-mailinator/issues",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dweinstein/node-mailinator.git"
   },
   "scripts": {
     "test": "node test/test.js"
