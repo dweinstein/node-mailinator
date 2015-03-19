@@ -1,6 +1,6 @@
 var q = require('hyperquest');
 var split = require('split');
-var parse = require('JSONstream').parse;
+var parse = require('JSONStream').parse;
 var util = require('util');
 var qs = require('querystring');
 var through = require('through2').obj;
