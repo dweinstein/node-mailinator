@@ -1,7 +1,7 @@
 node-mailinator
 ===============
 
-node [mailinator](mailinator.com) api.
+node [mailinator](http://www.mailinator.com) api.
 
 ```
 var mailinator = require('mailinator')({token: 'token-here'});
@@ -14,4 +14,4 @@ mailinator.getMessages('georgebush', function (err, res) {
 });
 ```
 
-Get a token from [mailinator](mailinator.com)
+Get a token from [mailinator](http://www.mailinator.com/)
